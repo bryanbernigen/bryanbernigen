@@ -49,7 +49,7 @@
           <a href="https://github.com/bryanbernigen/NgNotify" >
             <img src="https://skillicons.dev/icons?i=nodejs" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=django" />
           </a>
           <a href="https://github.com/bryanbernigen/Algeo02-20034">
@@ -58,16 +58,16 @@
           <a href="https://github.com/bryanbernigen/NgNotify">
             <img src="https://skillicons.dev/icons?i=php" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=python" />
           </a>
           <a href="https://github.com/bryanbernigen/NgNotify-SOAP">
             <img src="https://skillicons.dev/icons?i=java" />
-          </a>
+          </a href="https://github.com/bryanbernigen">
           <a href="https://github.com/bryanbernigen/Tubes3_13520019">
             <img src="https://skillicons.dev/icons?i=golang" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=express" />
           </a>
           <a href="https://github.com/bryanbernigen/NgNotify">
@@ -80,13 +80,13 @@
       <td style="width: 50%;">
         <div>
           <h3>Databases</h3>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=mysql" />
           </a>
           <a href="https://github.com/bryanbernigen/NgNotify">
             <img src="https://skillicons.dev/icons?i=postgres" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=mongodb" />
           </a>
           <a href="https://github.com/bryanbernigen/tvmaze_flutter_app">
@@ -97,25 +97,25 @@
       <td style="width: 50%;">
         <div>
           <h3>Deployment and Version Controlling</h3>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=azure" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=gcp" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=docker" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=nginx" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=git" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=github" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=gitlab" />
           </a>
         </div>
@@ -125,13 +125,13 @@
       <td style="width: 50%;">
         <div>
           <h3>Mobile</h3>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=kotlin" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=flutter" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=dart" />
           </a>
         </div>
@@ -139,13 +139,13 @@
       <td style="width: 50%;">
         <div>
           <h3>Game</h3>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=unity" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=cs" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=blender" />
           </a>
         </div>
@@ -155,19 +155,19 @@
       <td style="width: 50%;">
         <div>
           <h3>Robotics</h3>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=arduino" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=c" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=cpp" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=ros" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=cmake" />
           </a>
         </div>
@@ -175,16 +175,16 @@
       <td style="width: 50%;">
         <div>
           <h3>Other Skills</h3>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=figma" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=linux" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=postman" />
           </a>
-          <a>
+          <a href="https://github.com/bryanbernigen">
             <img src="https://skillicons.dev/icons?i=powershell" />
           </a>
         </div>
